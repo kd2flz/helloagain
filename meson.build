@@ -4,7 +4,7 @@ executable(
     meson.project_name(),
     'src/Application.vala',
     dependencies: [
-        dependencies('gtk+-3.0')
+        dependency('gtk+-3.0')
         ],
         install: true
 )
