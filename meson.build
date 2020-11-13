@@ -9,7 +9,7 @@ executable(
         install: true
 )
 install_data(
-    join_paths('data', 'com.github.kd2flz.helloagain.desktop'),
+    join_paths('data', 'helloagain.desktop'),
     install_dir: join_paths(get_option('datadir'), 'applications'),
     rename: meson.project_name() + '.desktop'
 )
