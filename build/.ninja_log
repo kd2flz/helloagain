@@ -1,0 +1,5 @@
+# ninja log v5
+0	488	1605234202835626209	com.github.kd2flz.helloagain@exe/src/Application.c	568cc9f4bd124dc
+488	808	1605234203247637251	com.github.kd2flz.helloagain@exe/meson-generated_src_Application.c.o	d6b1418d64bbc413
+810	938	1605234203375640682	com.github.kd2flz.helloagain	a0f789fe29d41c3
+2	3334	0	meson-install	9bd7faa9472bf40f

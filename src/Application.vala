@@ -40,6 +40,7 @@ public class MyApp : Gtk.Application {
 
         main_window.add (label);
         main_window.show_all ();
+        
 
     }
 
